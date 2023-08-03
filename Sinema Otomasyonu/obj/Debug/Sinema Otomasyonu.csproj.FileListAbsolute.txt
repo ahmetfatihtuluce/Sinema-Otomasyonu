@@ -1,0 +1,16 @@
+C:\Users\beyon\source\repos\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe.config
+C:\Users\beyon\source\repos\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe
+C:\Users\beyon\source\repos\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.pdb
+C:\Users\beyon\source\repos\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\beyon\source\repos\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\beyon\source\repos\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Properties.Resources.resources
+C:\Users\beyon\source\repos\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.GenerateResource.cache
+C:\Users\beyon\source\repos\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\beyon\source\repos\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.exe
+C:\Users\beyon\source\repos\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.pdb
+C:\Users\beyon\source\repos\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.frmAnaSayfa.resources
+C:\Users\beyon\source\repos\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.frmSalonEkle.resources
+C:\Users\beyon\source\repos\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.frmFilmEkle.resources
+C:\Users\beyon\source\repos\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.frmSatisListele.resources
+C:\Users\beyon\source\repos\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.frmSeansEkle.resources
+C:\Users\beyon\source\repos\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.frmSeansListele.resources
